@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2016-04-01 15:08:00 Z
+layout: page
 ---
 
 Diam mattis purus porta cras urna placerat lundium, turpis in velit. Habitasse sed augue, nascetur turpis augue porttitor? Augue et odio. Placerat massa porta tempor urna, pulvinar dictumst? Pulvinar diam. Amet turpis odio in penatibus nisi mauris, enim sed, lundium aenean auctor lundium dis non. Elit lectus nec rhoncus sit amet, turpis porta et lundium nunc tortor duis amet augue.
