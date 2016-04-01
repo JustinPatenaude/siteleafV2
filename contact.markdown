@@ -1,6 +1,7 @@
 ---
 title: Contact
 date: 2016-04-01 15:08:00 Z
+permalink: "/contact/"
 layout: page
 ---
 
