@@ -3,6 +3,9 @@ title: Justin's Test Site
 url: http://justin-test.siteleaf.net
 timezone: UTC
 collections:
+  gallery:
+    title: Gallery
+    output: true
   posts:
     title: Posts
     output: true
