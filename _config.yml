@@ -3,6 +3,9 @@ title: Your awesome title
 url: http://justin-test.siteleaf.net
 timezone: UTC
 collections:
+  catalogues:
+    title: Catalogues
+    output: true
   posts:
     title: Posts
     output: true
